@@ -34,3 +34,11 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/YOUR_USERNAME/django-crm.git
    cd django-crm
+   ## 📸 Screenshots
+
+### 🏠 Dashboard View
+![Dashboard](Screenshot 2025-06-02 211454.png)
+
+### ➕ Add Customer Form
+![Add Customer](screenshots/add_customer.png)
+
