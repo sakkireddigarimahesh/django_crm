@@ -37,8 +37,10 @@ Follow these steps to run the project locally:
    ## 📸 Screenshots
 
 ### 🏠 Dashboard View
-![Dashboard](C:\Users\chandu\Pictures\Screenshots\Screenshot 2025-06-02 211454.png)
+![Dashboard]![forms (1)](https://github.com/user-attachments/assets/6b5a5757-a4f9-4135-af46-b7d579a38c53)
+
 
 ### ➕ Add Customer Form
-![Add Customer](dashboard.png)
+![Add Customer](![Screenshot 2025-06-02 211353](https://github.com/user-attachments/assets/f5934e6a-47ac-49d4-84b0-c01e60ebbba1)
+)
 
