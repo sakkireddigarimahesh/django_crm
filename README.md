@@ -41,6 +41,6 @@ Follow these steps to run the project locally:
 
 
 ### ➕ Add Customer Form
-(![Screenshot 2025-06-02 211353](https://github.com/user-attachments/assets/f5934e6a-47ac-49d4-84b0-c01e60ebbba1)
-)
+![Screenshot 2025-06-02 211353](https://github.com/user-attachments/assets/f5934e6a-47ac-49d4-84b0-c01e60ebbba1)
+
 
