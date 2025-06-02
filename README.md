@@ -40,5 +40,5 @@ Follow these steps to run the project locally:
 ![Dashboard](C:\Users\chandu\Pictures\Screenshots\Screenshot 2025-06-02 211454.png)
 
 ### ➕ Add Customer Form
-![Add Customer](screenshots/add_customer.png)
+![Add Customer](dashboard.png)
 
