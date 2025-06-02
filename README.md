@@ -37,7 +37,8 @@ Follow these steps to run the project locally:
    ## 📸 Screenshots
 
 ### 🏠 Dashboard View
-![forms (1)](https://github.com/user-attachments/assets/6b5a5757-a4f9-4135-af46-b7d579a38c53)
+![Screenshot 2025-06-02 211454](https://github.com/user-attachments/assets/b20a93e0-b689-4d0d-bcef-ab639d6bd212)
+
 
 
 ### ➕ Add Customer Form
